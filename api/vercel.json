@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "petgram-server-gb",
-  "alias": ["petgram-api-gebe"],
+  "name": "petgram-server-project-gb",
+  "alias": ["petgram-api-project-gb"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "routes": [{
     "headers": {
