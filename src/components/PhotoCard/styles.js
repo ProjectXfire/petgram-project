@@ -1,5 +1,9 @@
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 import { fadeIn } from '../../styles/Animation'
+
+export const Article = styled.article`
+  min-height: 200px;
+`
 
 export const ImgWrapper = styled.div`
   height: 0;
